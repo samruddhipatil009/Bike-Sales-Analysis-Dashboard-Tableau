@@ -1,32 +1,31 @@
 # Bike-Sales-Analysis-Dashboard-Tableau
 
-## Dashboard Preview
-![Bike Dashboard].(Bike-sales-Analysis-Dashboard.png).
+
+### Dashboard Preview
+![Dashboard Screenshot](Bike-Sales%20-Analysis%20-Dashboard.png)
 
 ### Overview
-This Tableau dashboard analyzes bike store sales data from 2011-2016 across products, demographics, and geography to help businesses make data-driven decisions.
+Interactive Tableau dashboard analyzing bike store sales data from 2011-2016. Tracks revenue, profit, top products & customer demographics to help businesses make data-driven decisions.
 
 ### Key Metrics
-- **Total Revenue**: $20M+
-- **Total Orders**: 10,000+
 - **Time Period**: 2011 - 2016
-- **Top Product**: Mountain Bikes - $8.2M
-- **Top Markets**: United States & Australia
+- **Analysis Focus**: Revenue, Profit, Top Products, Customer Demographics
+- **Tool Used**: Tableau
 
 ### Key Insights
-- **Demographics**: Peak sales in age group 35-54, contributing 42% of total revenue
-- **Products**: Mountain Bikes generated highest revenue, followed by Road Bikes
-- **Seasonality**: Q4 2015 had 23% YoY growth driven by holiday sales
-- **Geography**: United States & Australia were top 2 markets by sales volume
+- **Products**: Identified top performing bike categories by sales volume
+- **Demographics**: Analyzed customer age groups and buying patterns
+- **Geography**: Tracked sales performance across different regions
+- **Trends**: Visualized yearly sales trends from 2011 to 2016
 
 ### Tools Used
-- Tableau Public
+- Tableau Desktop
 - Microsoft Excel for data cleaning
 
 ### Files in Repository
-- `Bike_Sales_Analysis.twbx` - Tableau source file
-- `dashboard_overview.png` - Dashboard screenshot
-- `bike_sales_raw_data_2011_2016.csv` - Raw dataset used
+- `Bike-Sales-Analysis-Tableau-Dashboard.twb` - Tableau workbook file
+- `Bike-Sales -Analysis -Dashboard.png` - Dashboard screenshot  
+- `Bike-Sales-Raw-Data.xlsx` - Raw dataset used
 
 ### Connect
 **Created by**: Samruddhi Patil
