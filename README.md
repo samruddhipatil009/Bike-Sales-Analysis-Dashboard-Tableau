@@ -1,11 +1,10 @@
-# Bike-Sales-Analysis-Dashboard-Tableau
-Interactive Tableau dashboard analyzing bike store sales 2011-2016: revenue, profit, top products &amp; customer demographics.
+
 # Bike-Sales-Analysis-Dashboard-Tableau
 
 This Tableau dashboard analyzes bike store sales data from 2011-2016 across products, demographics, and geography to help businesses make data-driven decisions.
 
 ### Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard_overview.png)
+![Dashboard /](Bike Sales Analysis Dashboard.png)
 
 ### Key Metrics
 - **Total Revenue**: $20M+
