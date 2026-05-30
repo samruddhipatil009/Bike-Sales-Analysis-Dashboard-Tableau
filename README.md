@@ -19,4 +19,7 @@ Tableau Public, Excel, Data Cleaning, Data Visualization
 3. Q4 2015 had 23% YoY growth
 
 ### Files in Repo
-- `data/bike_sales_raw_data_2011_
+- `data/bike_sales_raw_data_2011_2016.csv` - Raw dataset used for analysis
+- `dashboard/Bike_Sales_Analysis.twbx` - Tableau packaged workbook 
+- `screenshots/dashboard_overview.png` - Main dashboard preview
+- `README.md` - Project documentation
