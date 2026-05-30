@@ -1,6 +1,7 @@
 # Bike-Sales-Analysis-Dashboard-Tableau
 
-# Bike-Sales-Analysis-Dashboard-Tableau
+## Dashboard Preview
+
 
 ### Overview
 This Tableau dashboard analyzes bike store sales data from 2011-2016 across products, demographics, and geography to help businesses make data-driven decisions.
